@@ -1,0 +1,9 @@
+{
+  "rsa": {
+    "rootDir": "keys",
+    "publicKeyName": "test_rsa.pub",
+    "privateKeyName": "test_rsa.pem",
+    "MAX_ENCRYPT_BLOCK ": 117,
+    "MAX_DECRYPT_BLOCK ": 128
+  }
+}
